@@ -1,0 +1,12 @@
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\bin\Debug\net7.0\LibrarySystem.Domain.deps.json
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\bin\Debug\net7.0\LibrarySystem.Domain.dll
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\bin\Debug\net7.0\LibrarySystem.Domain.pdb
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\obj\Debug\net7.0\LibrarySystem.Domain.csproj.AssemblyReference.cache
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\obj\Debug\net7.0\LibrarySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\obj\Debug\net7.0\LibrarySystem.Domain.AssemblyInfoInputs.cache
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\obj\Debug\net7.0\LibrarySystem.Domain.AssemblyInfo.cs
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\obj\Debug\net7.0\LibrarySystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\obj\Debug\net7.0\LibrarySystem.Domain.dll
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\obj\Debug\net7.0\refint\LibrarySystem.Domain.dll
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\obj\Debug\net7.0\LibrarySystem.Domain.pdb
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Domain\obj\Debug\net7.0\ref\LibrarySystem.Domain.dll

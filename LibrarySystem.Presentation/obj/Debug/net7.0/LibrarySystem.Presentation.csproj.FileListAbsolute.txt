@@ -1,0 +1,8 @@
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Presentation\obj\Debug\net7.0\LibrarySystem.Presentation.csproj.AssemblyReference.cache
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Presentation\obj\Debug\net7.0\LibrarySystem.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Presentation\obj\Debug\net7.0\LibrarySystem.Presentation.AssemblyInfoInputs.cache
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Presentation\obj\Debug\net7.0\LibrarySystem.Presentation.AssemblyInfo.cs
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Presentation\obj\Debug\net7.0\LibrarySystem.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Presentation\obj\Debug\net7.0\LibrarySystem.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Presentation\obj\Debug\net7.0\LibrarySystem.Presentation.RazorAssemblyInfo.cache
+C:\Users\gianl\source\repos\LibrarySystem\LibrarySystem.Presentation\obj\Debug\net7.0\LibrarySystem.Presentation.RazorAssemblyInfo.cs
