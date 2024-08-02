@@ -1031,7 +1031,8 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
-          "LibrarySystem.Domain": "1.0.0"
+          "LibrarySystem.Domain": "1.0.0",
+          "LibrarySystem.Infrastructure": "1.0.0"
         },
         "compile": {
           "bin/placeholder/LibrarySystem.Application.dll": {}

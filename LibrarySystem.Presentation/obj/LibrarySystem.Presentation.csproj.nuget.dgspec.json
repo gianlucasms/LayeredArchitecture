@@ -36,6 +36,9 @@
             "projectReferences": {
               "C:\\Users\\gianl\\source\\repos\\LibrarySystem\\LibrarySystem.Domain\\LibrarySystem.Domain.csproj": {
                 "projectPath": "C:\\Users\\gianl\\source\\repos\\LibrarySystem\\LibrarySystem.Domain\\LibrarySystem.Domain.csproj"
+              },
+              "C:\\Users\\gianl\\source\\repos\\LibrarySystem\\LibrarySystem.Infrastructure\\LibrarySystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\gianl\\source\\repos\\LibrarySystem\\LibrarySystem.Infrastructure\\LibrarySystem.Infrastructure.csproj"
               }
             }
           }

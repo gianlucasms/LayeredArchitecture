@@ -1,22 +1,15 @@
-using AutoMapper;
+using LibrarySystem.Application.DependencyInjection;
 using LibrarySystem.Application.Mapping;
-using LibrarySystem.Application.Services;
-using LibrarySystem.Domain.Interfaces;
-using LibrarySystem.Infrastructure.Data;
-using LibrarySystem.Infrastructure.Repositories;
-using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var configuration = builder.Configuration;
+
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<LibraryContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddAutoMapper(typeof(BookProfile).Assembly);
 
-builder.Services.AddAutoMapper(typeof(MappingProfile));
-
-builder.Services.AddScoped<IBookRepository, BookRepository>();
-builder.Services.AddScoped<BookService>();
+builder.Services.AddDependencyInjection(configuration);
 
 var app = builder.Build();
 

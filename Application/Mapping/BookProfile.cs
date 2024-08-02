@@ -4,9 +4,9 @@ using LibrarySystem.Domain.Entities;
 
 namespace LibrarySystem.Application.Mapping;
 
-public class MappingProfile : Profile
+public sealed class BookProfile : Profile
 {
-    public MappingProfile()
+    public BookProfile()
     {
         CreateMap<Book, BookDTO>().ReverseMap();
     }
